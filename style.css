@@ -1,0 +1,52 @@
+/* Define o estilo para o fundo do corpo */
+body {
+    background: rgb(17, 90, 100);
+    font: normal 15pt arial;
+}
+
+/* Define o estilo para o cabeçalho */
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+
+/* Define o estilo para a seção */
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+    text-align: center;
+}
+
+/* Define o estilo para o rodapé */
+footer {
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+/* Define o estilo para a imagem */
+img#imagem {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* Define o estilo para os links */
+a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+
+/* Define o estilo para os links visitados */
+a :visited {
+    color: white;
+}
